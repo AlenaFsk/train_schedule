@@ -158,10 +158,10 @@ paths:
 2. Запустить XAMPP Control Panel
 
 ### Скрины проекта
-![1](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen1.jpg)
-![2](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen2.jpg)
-![3](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen3.jpg)
-![4](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen4.jpg)
+![1](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen1.png)
+![2](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen2.png)
+![3](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen3.png)
+![4](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen4.png)
 
 ### Вывод
 Система ЖД-Бронь предоставляет удобный способ бронирования железнодорожных билетов, интегрирована с динамическим обновлением расписания и внешним сервисом для просмотра фильмов. Работа с базой данных обеспечивает надежное хранение данных пользователей и информации о поездах.
