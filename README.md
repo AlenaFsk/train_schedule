@@ -9,7 +9,7 @@
 1. **Сортировка расписания поездов:** Пассажир может отсортировать расписание по городу отправления, городу прибытия и времени отправления.
 2. **Информация о свободных местах:** Показ информации о количестве свободных мест в поезде.
 3. **Бронирование мест:** Возможность пассажирам выбирать место для бронирования, с проверкой на доступность и занятость места.
-![Поведенческая диаграмма](https://github.com/AlenaFsk/train_schedule/assets/diagram.png)
+![Поведенческая диаграмма](https://github.com/AlenaFsk/train_schedule/blob/main/assets/diagram.png)
 
 ### Функциональные требования
 1. **Аутентификация пользователей:** Предусмотрена форма регистрации и входа для пользователей.
@@ -24,6 +24,9 @@
 
 ### Интерфейс
 Веб-интерфейс системы предоставляет пассажирам возможность выбора поезда, времени отправления и бронирования места. 
+![1](https://github.com/AlenaFsk/train_schedule/blob/main/assets/demo1.jpg)
+![2](https://github.com/AlenaFsk/train_schedule/blob/main/assets/demo2.jpg)
+![3](https://github.com/AlenaFsk/train_schedule/blob/main/assets/demo3.jpg)
 
 ### Описание структуры баз данных
 **Таблица Пассажиров:** Текстовые поля для хранения данных о пассажирах.
@@ -155,9 +158,10 @@ paths:
 2. Запустить XAMPP Control Panel
 
 ### Скрины проекта
-![1](https://github.com/AlenaFsk/train_schedule/assets/demo1.png)
-![2](https://github.com/AlenaFsk/train_schedule/assets/demo2.png)
-![3](https://github.com/AlenaFsk/train_schedule/assets/demo3.png)
+![1](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen1.jpg)
+![2](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen2.jpg)
+![3](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen3.jpg)
+![4](https://github.com/AlenaFsk/train_schedule/blob/main/assets/screen4.jpg)
 
 ### Вывод
 Система ЖД-Бронь предоставляет удобный способ бронирования железнодорожных билетов, интегрирована с динамическим обновлением расписания и внешним сервисом для просмотра фильмов. Работа с базой данных обеспечивает надежное хранение данных пользователей и информации о поездах.
